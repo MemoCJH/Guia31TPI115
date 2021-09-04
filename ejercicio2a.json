@@ -1,0 +1,29 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "San Miguel",
+				"habitantes": "1,100,000",
+				"altura": "129 MSNM",
+				"areaTerritorial": "594 km2",
+				"_id": "2",
+				"_nombre": "San Miguel"
+			}
+		],
+		"moneda": "Dolar",
+		"codTelefonico": "503",
+		"idioma": {
+			"oficial": "Español",
+			"autoctono": "Nahuatl",
+			"segundo": "Castellano"
+		},
+		"_nombre": "El Salvador"
+	}
+}

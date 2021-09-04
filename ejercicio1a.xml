@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo1.xml  AL13013 -->
+
+<?xml-stylesheet type="text/css" href="ejercicio1a.css" ?>
+
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="2/11/2021">
+<nombre>Daniela</nombre>
+<apellido>Andrade</apellido>
+<direccion>Res. Villa Hermosa, pasaje 28, casa #24</direccion>
+<telefono>68963145</telefono>
+<correo>dandradebernal@mail.com</correo>
+<enlace>https://es.wikipedia.org/wiki/Direcci%C3%B3n_IP</enlace>
+</ficha>
+</fichero> 
